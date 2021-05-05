@@ -32,7 +32,7 @@ body {
 .content::before {
     content: "";
     position: absolute; 
-    background-color: #58af9b;
+    background-color: #4169E1;
     width: 40%;
     height: 100%;
 
@@ -71,7 +71,7 @@ body {
 }
 .btn-primary:hover {
     background-color: #fff;
-    color: #58af9b;
+    color: #4169E1; /* RoyalBlue */
 }
 
 .first-content {
